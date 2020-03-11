@@ -2,3 +2,23 @@
     width: 50%;
     margin-right: 10px;
 }
+
+.card-img-overlay {
+    padding: 0px;
+    margin-top:60%;
+}
+.btn {
+    border-radius: 0;
+}
+
+.card {
+    margin-bottom: 25px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    background: grey;
+}
