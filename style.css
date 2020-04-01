@@ -13,8 +13,16 @@
     width: 100%;
 }
 
+
+.card-img {
+    height: 300px;
+    width: 300px;
+    border: 2px black;
+}
 .card {
     margin-bottom: 25px;
+    height: 300px;
+    width: 300px;
 }
 
 
@@ -32,4 +40,5 @@
     width: 100%;
     height: 35px;
     background: grey;
+    padding: 10px;
 }
