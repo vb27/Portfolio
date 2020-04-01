@@ -1,4 +1,6 @@
 body{
+    background-image: url("https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAo7qjgyVOZPjZD85wmLXPl4");
+    background-size: cover;
     background-color: ivory;
 }
 
@@ -47,7 +49,7 @@ body{
     padding: 10px;
 }
 
-a {
+#git {
     color: black;
     text-decoration: underline;
 }
