@@ -1,3 +1,7 @@
+body{
+    background-color: ivory;
+}
+
 .float-md-left.float-none {
     width: 50%;
     margin-right: 10px;
@@ -41,4 +45,13 @@
     height: 35px;
     background: grey;
     padding: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.last {
+    margin-bottom: 64px;
 }
