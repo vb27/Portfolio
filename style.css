@@ -1,6 +1,6 @@
 body{
-    background-image: url("https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAo7qjgyVOZPjZD85wmLXPl4");
-    background-size: cover;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/img.hromadske.ua/posts/images/000/029/497/medium/5.gif");
+    background-size: 100%;
     background-color: ivory;
 }
 
@@ -13,7 +13,7 @@ body{
     padding: 0px;
     margin-top:60%;
 }
-.btn-warning {
+.btn-dark {
     border-radius: 0;
     height: 40%;
     width: 100%;
@@ -40,14 +40,6 @@ body{
     height: 100%;
 }
 
-.footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    height: 35px;
-    background: grey;
-    padding: 10px;
-}
 
 #git {
     color: black;
@@ -57,3 +49,12 @@ body{
 .last {
     margin-bottom: 64px;
 }
+
+.gradient {
+    background-image: linear-gradient(#10F3C3, #21B5F5);
+}
+
+.subgradient {
+    background-image: linear-gradient(#21B5F5, #004DFF);
+}
+
